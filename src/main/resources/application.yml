@@ -1,0 +1,19 @@
+
+  
+#AWS credentials
+cloud:
+  aws:
+    credentials:
+#      access-key: 
+#      secret-Key: 
+  
+    region:
+      static: ap-south-1
+  
+application:
+    bucket:
+      name: fileaccessbucket
+    
+    
+server:
+  port: 9090
